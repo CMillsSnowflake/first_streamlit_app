@@ -2,10 +2,9 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.title('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-#item1 = 
-'Omega 3 & Blueberry Oatmeal'
+streamlit.text('Omega 3 & Blueberry Oatmeal')
 #item2 = 
 'Kale, Spinach & Rocket Smoothie'
 #item3 = 
