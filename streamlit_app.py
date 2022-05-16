@@ -4,10 +4,12 @@ streamlit.title('My Parents New Healthy Diner')
 
 streamlit.title('Breakfast Menu')
 
-# print("Omega 3 & Blueberry Oatmeal")
-# print does not work
-'Omega 3 & Blueberry Oatmeal'
-'Kale, Spinach & Rocket Smoothie'
-'Hard-Boiled Free-Range Egg'
+item1 = 'Omega 3 & Blueberry Oatmeal'
+item2 = 'Kale, Spinach & Rocket Smoothie'
+item3 = 'Hard-Boiled Free-Range Egg'
+
+print(item1)
+print(item2)
+print(item3)
                                                                                    
 # def get_first(concept);                                                                                   
