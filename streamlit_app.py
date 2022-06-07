@@ -52,7 +52,7 @@ streamlit.write('The user entered',fruit_choice)
 
 
 # don't run anything past here while we troublesheet
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
